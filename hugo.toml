@@ -1,4 +1,5 @@
 baseURL = "https://log-book.pages.dev"
+relativeURLs = true
 languageCode = "en-us"
 title = "log" # the title of your site
 
