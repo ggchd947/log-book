@@ -5,6 +5,9 @@ title = "log" # the title of your site
 
 theme = "dario"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   author = "mtb" # the author of the site
   description = "This page contains notes." # a description of your site that will be used in the meta tags
