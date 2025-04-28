@@ -1,7 +1,6 @@
 +++
 title = 'Read Like a Bee'
 date = 2025-04-27T17:49:09-07:00
-draft = true
 +++
 ## Introduction
 Many of the earliest Church Fathers borrowed terminology from Plato, Aristotle, and the Stoics while simultaneously criticizing the presuppositions and conclusions of these same philosophers.

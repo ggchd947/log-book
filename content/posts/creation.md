@@ -1,7 +1,6 @@
 +++
 title = 'Creation'
 date = 2025-04-27T18:20:07-07:00
-draft = true
 +++
 
 "We believe in one God, the Father Almighty, Maker of Heaven and Earth, and of all things visible and invisible."[^1] These opening words of the Nicene Creed, the central doctrinal statement of Christianity, affirm that the One True God is the source of everything that exists---both physical and spiritual, both animate and inanimate. The Holy Scriptures begin with a similarly striking assertion: "In the beginning God made heaven and earth." St. Basil the Great declares:
