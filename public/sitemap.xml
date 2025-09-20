@@ -2,35 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/indeed-it-was-very-good/</loc>
+    <loc>https://log-book.pages.dev/posts/arthur_interest/</loc>
+    <lastmod>2025-09-19T21:34:22-07:00</lastmod>
+  </url><url>
+    <loc>https://log-book.pages.dev/</loc>
+    <lastmod>2025-09-19T21:34:22-07:00</lastmod>
+  </url><url>
+    <loc>https://log-book.pages.dev/posts/</loc>
+    <lastmod>2025-09-19T21:34:22-07:00</lastmod>
+  </url><url>
+    <loc>https://log-book.pages.dev/posts/abrahams-example/</loc>
+    <lastmod>2025-05-09T20:13:13-07:00</lastmod>
+  </url><url>
+    <loc>https://log-book.pages.dev/posts/the-318-trained-servants/</loc>
+    <lastmod>2025-05-09T16:27:49-07:00</lastmod>
+  </url><url>
+    <loc>https://log-book.pages.dev/posts/to-be-tempted/</loc>
+    <lastmod>2025-05-09T15:48:47-07:00</lastmod>
+  </url><url>
+    <loc>https://log-book.pages.dev/posts/indeed-it-was-very-good/</loc>
     <lastmod>2025-04-27T20:39:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-27T20:39:01-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-27T20:39:01-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/source-abbreviations/</loc>
-    <lastmod>2025-04-27T20:02:38-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/creation/</loc>
+    <loc>https://log-book.pages.dev/posts/creation/</loc>
     <lastmod>2025-04-27T18:20:07-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/read-like-a-bee/</loc>
+    <loc>https://log-book.pages.dev/posts/read-like-a-bee/</loc>
     <lastmod>2025-04-27T17:49:09-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/graduated-reading-list/</loc>
+    <loc>https://log-book.pages.dev/posts/graduated-reading-list/</loc>
     <lastmod>2025-04-25T19:39:57-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/saint-chronology/</loc>
+    <loc>https://log-book.pages.dev/posts/saint-chronology/</loc>
     <lastmod>2025-03-23T14:59:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cosmic-mystery/</loc>
+    <loc>https://log-book.pages.dev/posts/cosmic-mystery/</loc>
     <lastmod>2025-03-23T14:47:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://log-book.pages.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://log-book.pages.dev/tags/</loc>
   </url>
 </urlset>
